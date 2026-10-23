@@ -1,0 +1,8 @@
+# Compiled binaries
+processor
+inf1102_tool
+
+# Project-specific generated files
+*.bin
+*.ppm
+inf1102_config.h
